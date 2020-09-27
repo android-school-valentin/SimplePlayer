@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/playlists"
+        android:enabled="true"
+        android:icon="@drawable/ic_navigation_playlists"
+        android:title="@string/home"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/music"
+        android:enabled="true"
+        android:icon="@drawable/ic_navigation_music"
+        android:title="@string/music"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/albums"
+        android:enabled="true"
+        android:icon="@drawable/ic_navigation_albums"
+        android:title="@string/albums"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/artists"
+        android:enabled="true"
+        android:icon="@drawable/ic_navigation_artists"
+        android:title="@string/artists"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/folders"
+        android:enabled="true"
+        android:icon="@drawable/ic_navigation_folders"
+        android:title="@string/folders"
+        app:showAsAction="ifRoom"/>
+
+</menu>

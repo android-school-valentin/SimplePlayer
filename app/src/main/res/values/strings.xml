@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimplePlayer</string>
+    <string name="home">Главная</string>
+    <string name="music">Музыка</string>
+    <string name="albums">Альбомы</string>
+    <string name="artists">Исполнители</string>
+    <string name="folders">Папки</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
